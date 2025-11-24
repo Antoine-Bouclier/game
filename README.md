@@ -10,6 +10,8 @@
 
 Both start with the same abilities, and will be able to specialize in several categories.
 
+Each human start with an inventory, and can carry multiple objects. they can build and craft new object. 
+
 ## Animals
 
 They have unique abilities, and some of their specialisations will be unique aswell.
